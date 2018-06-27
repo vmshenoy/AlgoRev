@@ -1,0 +1,6 @@
+C:\ZTraining\Algorithm\Work\Revision\InterviewRev\Sorting.Rev\bin\Debug\Sorting.Rev.exe.config
+C:\ZTraining\Algorithm\Work\Revision\InterviewRev\Sorting.Rev\bin\Debug\Sorting.Rev.exe
+C:\ZTraining\Algorithm\Work\Revision\InterviewRev\Sorting.Rev\bin\Debug\Sorting.Rev.pdb
+C:\ZTraining\Algorithm\Work\Revision\InterviewRev\Sorting.Rev\obj\Debug\Sorting.Rev.csproj.CoreCompileInputs.cache
+C:\ZTraining\Algorithm\Work\Revision\InterviewRev\Sorting.Rev\obj\Debug\Sorting.Rev.exe
+C:\ZTraining\Algorithm\Work\Revision\InterviewRev\Sorting.Rev\obj\Debug\Sorting.Rev.pdb

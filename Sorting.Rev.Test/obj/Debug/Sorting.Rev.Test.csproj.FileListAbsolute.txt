@@ -1,0 +1,16 @@
+C:\ZTraining\Algorithm\Work\Revision\InterviewRev\Sorting.Rev.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\ZTraining\Algorithm\Work\Revision\InterviewRev\Sorting.Rev.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\ZTraining\Algorithm\Work\Revision\InterviewRev\Sorting.Rev.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\ZTraining\Algorithm\Work\Revision\InterviewRev\Sorting.Rev.Test\bin\Debug\Sorting.Rev.Test.dll
+C:\ZTraining\Algorithm\Work\Revision\InterviewRev\Sorting.Rev.Test\bin\Debug\Sorting.Rev.Test.pdb
+C:\ZTraining\Algorithm\Work\Revision\InterviewRev\Sorting.Rev.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\ZTraining\Algorithm\Work\Revision\InterviewRev\Sorting.Rev.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\ZTraining\Algorithm\Work\Revision\InterviewRev\Sorting.Rev.Test\bin\Debug\Sorting.Rev.exe
+C:\ZTraining\Algorithm\Work\Revision\InterviewRev\Sorting.Rev.Test\bin\Debug\Sorting.Rev.pdb
+C:\ZTraining\Algorithm\Work\Revision\InterviewRev\Sorting.Rev.Test\bin\Debug\Sorting.Rev.exe.config
+C:\ZTraining\Algorithm\Work\Revision\InterviewRev\Sorting.Rev.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\ZTraining\Algorithm\Work\Revision\InterviewRev\Sorting.Rev.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\ZTraining\Algorithm\Work\Revision\InterviewRev\Sorting.Rev.Test\obj\Debug\Sorting.Rev.Test.csprojResolveAssemblyReference.cache
+C:\ZTraining\Algorithm\Work\Revision\InterviewRev\Sorting.Rev.Test\obj\Debug\Sorting.Rev.Test.csproj.CoreCompileInputs.cache
+C:\ZTraining\Algorithm\Work\Revision\InterviewRev\Sorting.Rev.Test\obj\Debug\Sorting.Rev.Test.dll
+C:\ZTraining\Algorithm\Work\Revision\InterviewRev\Sorting.Rev.Test\obj\Debug\Sorting.Rev.Test.pdb
