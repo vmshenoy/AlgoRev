@@ -1,0 +1,6 @@
+C:\ZTraining\Algorithm\Work\Revision\InterviewRev\DataStructure.Rev\obj\Debug\DataStructure.Rev.csproj.CoreCompileInputs.cache
+C:\ZTraining\Algorithm\Work\Revision\InterviewRev\DataStructure.Rev\bin\Debug\DataStructure.Rev.exe.config
+C:\ZTraining\Algorithm\Work\Revision\InterviewRev\DataStructure.Rev\bin\Debug\DataStructure.Rev.exe
+C:\ZTraining\Algorithm\Work\Revision\InterviewRev\DataStructure.Rev\bin\Debug\DataStructure.Rev.pdb
+C:\ZTraining\Algorithm\Work\Revision\InterviewRev\DataStructure.Rev\obj\Debug\DataStructure.Rev.exe
+C:\ZTraining\Algorithm\Work\Revision\InterviewRev\DataStructure.Rev\obj\Debug\DataStructure.Rev.pdb

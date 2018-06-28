@@ -15,6 +15,7 @@ namespace Sorting.Rev
     /// </summary>
     public class QuickSort
     {
+        #region SORT-1        
         public void Sort(int[] inputArray)
         {
             //Guard condition
@@ -66,21 +67,63 @@ namespace Sorting.Rev
             //NOTE:All the items before "high" are less than the pivot, except the pivot 
             //swap item at high with that of index 
             //if (index < high)
-            Util.SwapArrEle(arr, upper, start);            
+            Util.SwapArrEle(arr, upper, start);
 
             return upper;
         }
+        #endregion
+
+        #region SORT-2
+        public void Sort2(int[] inputArray)
+        {
+            //Guard condition
+            if (inputArray.Length == 0)//empty array
+            {
+                throw new ArgumentNullException();
+            }
+
+            if (inputArray.Length == 1)//single item array
+            {
+                return;
+            }
+
+            //call the quick sort function iteratively
+            Sort2(inputArray, 0, inputArray.Length - 1);
+        }
+
+        private void Sort2(int[] arr, int left, int right)
+        {
+            if (right <= left) return;
+
+            Util.Print(arr, left, right);
+            int pivot = arr[left];  //first ele is picked as pivot
+            int l = left, r = right;
+
+            while (l <= r)
+            {
+                //find ele greater than pivot in left sub array
+                while (pivot > arr[l]) l++;
+
+                //find ele lesser than pivot in right sub array
+                while (pivot < arr[r]) r--;
+
+                //swap the above ele's in the two sub-array
+                if (l <= r)
+                {
+                    Util.SwapArrEle(arr, l, r);                    
+                    l++;//move left
+                    r--;//move right
+                }
+            }
+                        
+            if (left < (l - 1))
+                Sort2(arr, left, l - 1);
+            if (l < right)
+                Sort2(arr, l, right);
+            //note:the start index for 2nd sub-array if from (l) and not (l+1)
+            //This is done to handle the case pf duplicate elements occuring in the each sub-array
+        }
+        #endregion
     }
 }
-/*
-Dry-run 
-:first iteration (arr[],low:0,high:5) return the pivot_position
-    while l<h:          low     high    pivot=arr[(low + high) / 2]
-    5-2-3-1-8-6         0       5       3
-    5-2-3-1-8-6 //move toward center till you get item less than and greater than pivot
-    l     h             0       3       // if l < h Swap(arr,0,3)
-    1-2-3-5-8-6         
-      h   l     //end of while return 
-:Seccond iteration
-    first part  (arr[],low:0,high:)
-*/
+

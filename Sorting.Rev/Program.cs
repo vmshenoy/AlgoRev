@@ -23,7 +23,7 @@ namespace Sorting.Rev
             foreach (var arr in test)
             {
                 Util.Print(arr);
-                new QuickSort2().Sort(arr);
+                new QuickSort().Sort2(arr);
                 Util.Print(arr); 
             }
 
